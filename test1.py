@@ -23,3 +23,6 @@
 #  dir ()   help ()
 #   Upravliauschie simvoly
 # \n   \t   \0
+
+antu = list('Ponty', 'kkhki')
+print(antu) 
